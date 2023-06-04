@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.faTrashCan:hover {
+ color: #ff0000;
+}
+.faPenToSquare:hover{
+    color: #2e45c7;
+}
