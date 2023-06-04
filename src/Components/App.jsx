@@ -5,11 +5,7 @@ import { listIngresos, listGastos } from '../Array'
 
 const classButton = "w-1/2 border rounded-full shadow-xl hover:bg-lime-600 hover:text-slate-300 text-lime-700 border-lime-700"
 
-
-
 export default function App(){
-
-
     const [showModal, setShowModal] = useState(false)
     const text = ""
     return( 
